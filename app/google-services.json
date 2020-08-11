@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050645686453",
+    "firebase_url": "https://test-app-593ef.firebaseio.com",
+    "project_id": "test-app-593ef",
+    "storage_bucket": "test-app-593ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050645686453:android:9d92a000135122ef49f6fc",
+        "android_client_info": {
+          "package_name": "com.inmobi.nativebanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050645686453-0d48dbg0llthk5tspgoj29scuait1inn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCShivqhlN13sCYrySQ0v4tIC1gb46utBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050645686453-0d48dbg0llthk5tspgoj29scuait1inn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

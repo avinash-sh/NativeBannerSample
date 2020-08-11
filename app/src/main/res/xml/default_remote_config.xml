@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>ads_config</key>
+        <value>
+            {
+            "ads_enabled":true,
+            "infeed_ads":{
+            "today_banner_top":{
+            "ads_type":"small",
+            "placement_id":"/6499/example/nativeandbanner",
+            "is_mute_enabled":true,
+            "refresh_interval":10000
+            },
+            "today_banner_bottom":{
+            "ads_type":"small",
+            "placement_id":"/6499/example/nativeandbanner",
+            "is_mute_enabled":true,
+            "refresh_interval":10000
+            },
+            "forecastdiscussion_mrec":{
+            "ads_type":"fullScreen",
+            "placement_id":"/6499/example/nativeandbanner",
+            "is_mute_enabled":true,
+            "refresh_interval":20000
+            },
+            "alerts_bottom_mrec":{
+            "ads_type":"fullScreen",
+            "placement_id":"/6499/example/nativeandbanner",
+            "is_mute_enabled":true,
+            "refresh_interval":20000
+            }
+            },
+            "amazon_ads":{
+            "ads_enabled":true,
+            "a9_refresh_rate":15,
+            "banner_ad_limit" : 6,
+            "mrec_ad_limit" : 2,
+            "int_ad_limit" : 1,
+            "video_ad_limit" : 2,
+            "placements":{
+            "/6499/example/nativeandbanner":{
+            "ads_type":"a9Small",
+            "placement_id":"XXXXXXX-XXXXX"
+            }
+            }
+            }
+            }
+        </value>
+    </entry>
+</defaultsMap>
